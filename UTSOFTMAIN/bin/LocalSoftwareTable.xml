@@ -1,0 +1,123 @@
+﻿<?xml version="1.0"?>
+<ArrayOfSoftwareTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SoftwareTable>
+    <SoftwareName>360压缩软件安装包</SoftwareName>
+    <Version>3.2.0.2001</Version>
+    <IcoName>360压缩_64X64.ico</IcoName>
+    <Size>5.94</Size>
+    <UpdateTime>2016-05-20T20:52:27</UpdateTime>
+    <Remark>文件压缩和解压软件</Remark>
+    <Hot>148</Hot>
+    <FileName>360压缩_3.2.0.2001</FileName>
+    <VideoLink />
+    <Type>FREE</Type>
+  </SoftwareTable>
+  <SoftwareTable>
+    <SoftwareName>百度云管家安装包</SoftwareName>
+    <Version>4.7.6</Version>
+    <IcoName>百度云_64X64.ico</IcoName>
+    <Size>9.47</Size>
+    <UpdateTime>2016-05-20T21:15:40</UpdateTime>
+    <Remark>保存和下载文件的工具</Remark>
+    <Hot>227</Hot>
+    <FileName>BaiduYunGuanjia</FileName>
+    <VideoLink />
+    <Type>FREE</Type>
+  </SoftwareTable>
+  <SoftwareTable>
+    <SoftwareName>VIP作业表</SoftwareName>
+    <Version>1.0</Version>
+    <IcoName>excel_64X64.ico</IcoName>
+    <Size>0.04</Size>
+    <UpdateTime>2016-01-13T14:03:30</UpdateTime>
+    <Remark>UT教育VIP学员学习任务</Remark>
+    <Hot>767</Hot>
+    <FileName>VIP作业表</FileName>
+    <VideoLink />
+    <Type>VIP</Type>
+  </SoftwareTable>
+  <SoftwareTable>
+    <SoftwareName>UT教育VIP专用播放器</SoftwareName>
+    <Version>1.0</Version>
+    <IcoName>UT播放器64X64.ico</IcoName>
+    <Size>29.19</Size>
+    <UpdateTime>2016-04-01T11:02:02</UpdateTime>
+    <Remark>UT教育课程视频文件播放工具</Remark>
+    <Hot>2163</Hot>
+    <FileName>UT教育VIP专用播放器</FileName>
+    <VideoLink>http://v.youku.com/v_show/id_XMTUxNTM1ODk1Ng==.html?from=y1.7-1.2</VideoLink>
+    <Type>VIP</Type>
+  </SoftwareTable>
+  <SoftwareTable>
+    <SoftwareName>店长神器</SoftwareName>
+    <Version>4.52</Version>
+    <IcoName>店长神器.ico</IcoName>
+    <Size>4.85</Size>
+    <UpdateTime>2016-09-27T11:49:54</UpdateTime>
+    <Remark>宝贝上下架神器</Remark>
+    <Hot>126</Hot>
+    <FileName>店长神器</FileName>
+    <VideoLink />
+    <Type>VIP</Type>
+  </SoftwareTable>
+  <SoftwareTable>
+    <SoftwareName>UT教育VIP专用播放器</SoftwareName>
+    <Version>1.0</Version>
+    <IcoName>UT播放器64X64.ico</IcoName>
+    <Size>29.19</Size>
+    <UpdateTime>2016-04-01T11:02:02</UpdateTime>
+    <Remark>UT教育课程视频文件播放工具</Remark>
+    <Hot>2687</Hot>
+    <FileName>UT教育VIP专用播放器</FileName>
+    <VideoLink>http://v.youku.com/v_show/id_XMTUxNTM1ODk1Ng==.html?from=y1.7-1.2</VideoLink>
+    <Type>VIP</Type>
+  </SoftwareTable>
+  <SoftwareTable>
+    <SoftwareName>PhotoShopCS6安装包</SoftwareName>
+    <Version>_13.0.1.3_X86</Version>
+    <IcoName>Adobe Photoshop_64X64.ico</IcoName>
+    <Size>104.99</Size>
+    <UpdateTime>2016-05-21T15:35:46</UpdateTime>
+    <Remark>图片处理工具</Remark>
+    <Hot>612</Hot>
+    <FileName>PhotoshopCS6</FileName>
+    <VideoLink />
+    <Type>FREE</Type>
+  </SoftwareTable>
+  <SoftwareTable>
+    <SoftwareName>WPS安装包</SoftwareName>
+    <Version>10.1.0.5554_bd</Version>
+    <IcoName>excel_64X64.ico</IcoName>
+    <Size>56.88</Size>
+    <UpdateTime>2016-01-13T14:03:30</UpdateTime>
+    <Remark>文字处理办公软件</Remark>
+    <Hot>312</Hot>
+    <FileName>WPSOffice_10.1.0.5554_bd</FileName>
+    <VideoLink />
+    <Type>FREE</Type>
+  </SoftwareTable>
+  <SoftwareTable>
+    <SoftwareName>缓存清理器CCleanerPlus</SoftwareName>
+    <Version>5.02</Version>
+    <IcoName>CCleaner_64X64.ico</IcoName>
+    <Size>4.05</Size>
+    <UpdateTime>2016-01-13T14:03:30</UpdateTime>
+    <Remark>清理浏览器缓存</Remark>
+    <Hot>307</Hot>
+    <FileName>CCleaner</FileName>
+    <VideoLink />
+    <Type>FREE</Type>
+  </SoftwareTable>
+  <SoftwareTable>
+    <SoftwareName>YY安装包</SoftwareName>
+    <Version>8.7.0.1-zh-CN</Version>
+    <IcoName>YY语音_64X64.ico</IcoName>
+    <Size>23.17</Size>
+    <UpdateTime>2016-01-13T14:03:30</UpdateTime>
+    <Remark>视频聊天软件</Remark>
+    <Hot>744</Hot>
+    <FileName>YYSetup-8.7.0.1-zh-CN</FileName>
+    <VideoLink />
+    <Type>FREE</Type>
+  </SoftwareTable>
+</ArrayOfSoftwareTable>

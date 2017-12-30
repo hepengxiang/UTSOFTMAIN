@@ -1,0 +1,19 @@
+D:\Ut教育软件\UTSOFTMAIN\MODEL\bin\Release\MODEL.dll
+D:\Ut教育软件\UTSOFTMAIN\MODEL\bin\Release\MODEL.pdb
+D:\Ut教育软件\UTSOFTMAIN\MODEL\obj\Release\MODEL.dll
+D:\Ut教育软件\UTSOFTMAIN\MODEL\obj\Release\MODEL.pdb
+D:\UTSOFTMAIN\MODEL\bin\Release\MODEL.dll
+D:\UTSOFTMAIN\MODEL\bin\Release\MODEL.pdb
+D:\UTSOFTMAIN\MODEL\obj\Release\MODEL.csprojResolveAssemblyReference.cache
+D:\UTSOFTMAIN\MODEL\obj\Release\MODEL.dll
+D:\UTSOFTMAIN\MODEL\obj\Release\MODEL.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\MODEL\bin\Release\MODEL.dll
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\MODEL\bin\Release\MODEL.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\MODEL\obj\Release\MODEL.csprojResolveAssemblyReference.cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\MODEL\obj\Release\MODEL.dll
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\MODEL\obj\Release\MODEL.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\MODEL\bin\Release\MODEL.dll
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\MODEL\bin\Release\MODEL.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\MODEL\obj\Release\MODEL.dll
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\MODEL\obj\Release\MODEL.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\MODEL\obj\Release\MODEL.csprojResolveAssemblyReference.cache

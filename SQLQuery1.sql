@@ -1,0 +1,1 @@
+﻿select count(1) from Users

@@ -1,0 +1,845 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6E4287CF-AD1E-499D-89BE-4006591E7A5F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UTSOFTMAIN</RootNamespace>
+    <AssemblyName>UTSOFTMAIN</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>C:\Users\Administrator\Desktop\新建文件夹 %283%29\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>178D312F6D9A7EA6D394D96DF5BA3B70C85FAE83</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>UTSOFTMAIN_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=7.0.0.4, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="HttpHelper, Version=1.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\HttpHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=5.2.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.0.3.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="优梯_推广部\YX_AllTableDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_AllTableDate.Designer.cs">
+      <DependentUpon>YX_AllTableDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_行政部\Admin_CardSerialDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_行政部\Admin_CardSerialDetail.Designer.cs">
+      <DependentUpon>Admin_CardSerialDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_行政部\UT_SerialDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_行政部\UT_SerialDetail.designer.cs">
+      <DependentUpon>UT_SerialDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_VIP信息\UT_VIPMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_VIP信息\UT_VIPMessage.Designer.cs">
+      <DependentUpon>UT_VIPMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_个人情况\JX_DetailShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_个人情况\JX_DetailShow.Designer.cs">
+      <DependentUpon>JX_DetailShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_FlushList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_FlushList.designer.cs">
+      <DependentUpon>UT_FlushList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_KF_TXZY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_KF_TXZY.Designer.cs">
+      <DependentUpon>UT_KF_TXZY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_TK_DealWith.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_TK_DealWith.designer.cs">
+      <DependentUpon>UT_TK_DealWith.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_行政部\Admin_AcountDetailCount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_行政部\Admin_AcountDetailCount.Designer.cs">
+      <DependentUpon>Admin_AcountDetailCount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_行政部\Admin_DataMatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_行政部\Admin_DataMatch.Designer.cs">
+      <DependentUpon>Admin_DataMatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_行政部\UT_ImprotDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_行政部\UT_ImprotDate.Designer.cs">
+      <DependentUpon>UT_ImprotDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="总内部界面\Admin_BatchAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="总内部界面\Admin_BatchAdd.Designer.cs">
+      <DependentUpon>Admin_BatchAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="总内部界面\Admin_JXCaculate_BatchAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="总内部界面\Admin_JXCaculate_BatchAdd.Designer.cs">
+      <DependentUpon>Admin_JXCaculate_BatchAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="总内部界面\Pub_JXSalaryDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="总内部界面\Pub_JXSalaryDetail.Designer.cs">
+      <DependentUpon>Pub_JXSalaryDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="总内部界面\Pub_WorkSalaryDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="总内部界面\Pub_WorkSalaryDetail.Designer.cs">
+      <DependentUpon>Pub_WorkSalaryDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="总内部界面\InWard_AllSalaryTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="总内部界面\InWard_AllSalaryTable.Designer.cs">
+      <DependentUpon>InWard_AllSalaryTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_KF_PromoteDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_KF_PromoteDetail.Designer.cs">
+      <DependentUpon>UT_KF_PromoteDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_KF_TSTKJXManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_KF_TSTKJXManager.designer.cs">
+      <DependentUpon>UT_KF_TSTKJXManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_BM_VIPMessageTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_BM_VIPMessageTable.designer.cs">
+      <DependentUpon>TD_BM_VIPMessageTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_InsideSerial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_InsideSerial.Designer.cs">
+      <DependentUpon>TD_InsideSerial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_FlushList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_FlushList.Designer.cs">
+      <DependentUpon>TD_FlushList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_SerialDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_SerialDetail.Designer.cs">
+      <DependentUpon>TD_SerialDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_ComplainRefundInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_ComplainRefundInfo.Designer.cs">
+      <DependentUpon>TD_ComplainRefundInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_TK_LessonAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_TK_LessonAdd.Designer.cs">
+      <DependentUpon>TD_TK_LessonAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_TK_LessonDateManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_TK_LessonDateManager.Designer.cs">
+      <DependentUpon>TD_TK_LessonDateManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_TK_StudentMessageShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_TK_StudentMessageShow.Designer.cs">
+      <DependentUpon>TD_TK_StudentMessageShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_YD_VIPMessageTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="淘大型分公司\TD_YD_VIPMessageTable.Designer.cs">
+      <DependentUpon>TD_YD_VIPMessageTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_研发部\UT_YF_TwoVisit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_研发部\UT_YF_TwoVisit.Designer.cs">
+      <DependentUpon>UT_YF_TwoVisit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_研发部\UT_YF_OneVisit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_研发部\UT_YF_OneVisit.Designer.cs">
+      <DependentUpon>UT_YF_OneVisit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PublicMethod.cs" />
+    <Compile Include="优梯_行政部\UT_AdminPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_行政部\UT_AdminPart.Designer.cs">
+      <DependentUpon>UT_AdminPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_KF_ClassSituation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_KF_ClassSituation.Designer.cs">
+      <DependentUpon>UT_KF_ClassSituation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_KF_ComplainRefundInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_KF_ComplainRefundInfo.Designer.cs">
+      <DependentUpon>UT_KF_ComplainRefundInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_KF_FYFTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_KF_FYFTable.Designer.cs">
+      <DependentUpon>UT_KF_FYFTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_KF_YDBMJXManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_KF_YDBMJXManager.Designer.cs">
+      <DependentUpon>UT_KF_YDBMJXManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_KF_VIPMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_KF_VIPMessage.Designer.cs">
+      <DependentUpon>UT_KF_VIPMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_推广部\CRMStudyAllShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_推广部\CRMStudyAllShow.Designer.cs">
+      <DependentUpon>CRMStudyAllShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBHelper.cs" />
+    <Compile Include="福利市场\FLSCDataManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="福利市场\FLSCDataManager.Designer.cs">
+      <DependentUpon>FLSCDataManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="福利市场\FLSCSoftManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="福利市场\FLSCSoftManager.Designer.cs">
+      <DependentUpon>FLSCSoftManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="福利市场\FuLiShiChang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="福利市场\FuLiShiChang.Designer.cs">
+      <DependentUpon>FuLiShiChang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="系统管理\frmSystemManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="系统管理\frmSystemManage.designer.cs">
+      <DependentUpon>frmSystemManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_推广部\UT_frmExtendPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_推广部\UT_frmExtendPart.designer.cs">
+      <DependentUpon>UT_frmExtendPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="淘大型分公司\TaoDa_frmCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="淘大型分公司\TaoDa_frmCompany.Designer.cs">
+      <DependentUpon>TaoDa_frmCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResetPassword.Designer.cs">
+      <DependentUpon>frmResetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_FlushList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_FlushList.designer.cs">
+      <DependentUpon>TX_FlushList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_BM_VIPMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_BM_VIPMessage.Designer.cs">
+      <DependentUpon>TX_BM_VIPMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_SerialDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_SerialDetail.designer.cs">
+      <DependentUpon>TX_SerialDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_InsideSerial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_InsideSerial.designer.cs">
+      <DependentUpon>TX_InsideSerial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="腾讯型分公司\TenXun_frmCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="腾讯型分公司\TenXun_frmCompany.Designer.cs">
+      <DependentUpon>TenXun_frmCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUTSOFTMAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUTSOFTMAIN.Designer.cs">
+      <DependentUpon>frmUTSOFTMAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notice_Timer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RowMergeView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RowMergeView.Designer.cs">
+      <DependentUpon>RowMergeView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="优梯_推广部\CRMStudyDetailShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_推广部\CRMStudyDetailShow.Designer.cs">
+      <DependentUpon>CRMStudyDetailShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tools.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="总内部界面\frmInWard1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="总内部界面\frmInWard1.Designer.cs">
+      <DependentUpon>frmInWard1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_frmCostomPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_客服部\UT_frmCostomPart.Designer.cs">
+      <DependentUpon>UT_frmCostomPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_研发部\UT_frmDevloPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_研发部\UT_frmDevloPart.Designer.cs">
+      <DependentUpon>UT_frmDevloPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_总经理\UT_frmGeneralManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_总经理\UT_frmGeneralManager.Designer.cs">
+      <DependentUpon>UT_frmGeneralManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_个人情况\UT_frmPersonSituation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_个人情况\UT_frmPersonSituation.Designer.cs">
+      <DependentUpon>UT_frmPersonSituation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UT_VIPMessageShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UT_VIPMessageShow.Designer.cs">
+      <DependentUpon>UT_VIPMessageShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_PromoteAllShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_PromoteAllShow.Designer.cs">
+      <DependentUpon>YX_PromoteAllShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_EverydayEvaluateShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_EverydayEvaluateShow.Designer.cs">
+      <DependentUpon>YX_EverydayEvaluateShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_EveryDaySummaryShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_EveryDaySummaryShow.Designer.cs">
+      <DependentUpon>YX_EveryDaySummaryShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_JXManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_JXManager.Designer.cs">
+      <DependentUpon>YX_JXManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_QQZone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_QQZone.Designer.cs">
+      <DependentUpon>YX_QQZone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_ResourceAddShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_ResourceAddShow.Designer.cs">
+      <DependentUpon>YX_ResourceAddShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_ResourceDevelopShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_ResourceDevelopShow.Designer.cs">
+      <DependentUpon>YX_ResourceDevelopShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_ResourceGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_ResourceGroup.designer.cs">
+      <DependentUpon>YX_ResourceGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_TableCollectShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="优梯_推广部\YX_TableCollectShow.designer.cs">
+      <DependentUpon>YX_TableCollectShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_TSTK_Message.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_TSTK_Message.Designer.cs">
+      <DependentUpon>TX_TSTK_Message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_YD_VIPMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_YD_VIPMessage.Designer.cs">
+      <DependentUpon>TX_YD_VIPMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_ZY_EveryDaySummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_ZY_EveryDaySummary.Designer.cs">
+      <DependentUpon>TX_ZY_EveryDaySummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_ZY_Message.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_ZY_Message.Designer.cs">
+      <DependentUpon>TX_ZY_Message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_ZYTable_ResourceAddShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_ZYTable_ResourceAddShow.designer.cs">
+      <DependentUpon>TX_ZYTable_ResourceAddShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_ZYTable_ResourceDevelopShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_ZYTable_ResourceDevelopShow.designer.cs">
+      <DependentUpon>TX_ZYTable_ResourceDevelopShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_ZYTable_EveryDaySummaryShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="腾讯型分公司\TX_ZYTable_EveryDaySummaryShow.designer.cs">
+      <DependentUpon>TX_ZYTable_EveryDaySummaryShow.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="优梯_推广部\YX_AllTableDate.resx">
+      <DependentUpon>YX_AllTableDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_行政部\Admin_CardSerialDetail.resx">
+      <DependentUpon>Admin_CardSerialDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_行政部\UT_SerialDetail.resx">
+      <DependentUpon>UT_SerialDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_VIP信息\UT_VIPMessage.resx">
+      <DependentUpon>UT_VIPMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_个人情况\JX_DetailShow.resx">
+      <DependentUpon>JX_DetailShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_客服部\UT_FlushList.resx">
+      <DependentUpon>UT_FlushList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_客服部\UT_KF_TXZY.resx">
+      <DependentUpon>UT_KF_TXZY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_客服部\UT_TK_DealWith.resx">
+      <DependentUpon>UT_TK_DealWith.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_行政部\Admin_AcountDetailCount.resx">
+      <DependentUpon>Admin_AcountDetailCount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_行政部\Admin_DataMatch.resx">
+      <DependentUpon>Admin_DataMatch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_行政部\UT_ImprotDate.resx">
+      <DependentUpon>UT_ImprotDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="总内部界面\Admin_BatchAdd.resx">
+      <DependentUpon>Admin_BatchAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="总内部界面\Admin_JXCaculate_BatchAdd.resx">
+      <DependentUpon>Admin_JXCaculate_BatchAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="总内部界面\Pub_JXSalaryDetail.resx">
+      <DependentUpon>Pub_JXSalaryDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="总内部界面\Pub_WorkSalaryDetail.resx">
+      <DependentUpon>Pub_WorkSalaryDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="总内部界面\InWard_AllSalaryTable.resx">
+      <DependentUpon>InWard_AllSalaryTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_客服部\UT_KF_PromoteDetail.resx">
+      <DependentUpon>UT_KF_PromoteDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_客服部\UT_KF_TSTKJXManager.resx">
+      <DependentUpon>UT_KF_TSTKJXManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="淘大型分公司\TD_BM_VIPMessageTable.resx">
+      <DependentUpon>TD_BM_VIPMessageTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="淘大型分公司\TD_InsideSerial.resx">
+      <DependentUpon>TD_InsideSerial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="淘大型分公司\TD_FlushList.resx">
+      <DependentUpon>TD_FlushList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="淘大型分公司\TD_SerialDetail.resx">
+      <DependentUpon>TD_SerialDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="淘大型分公司\TD_ComplainRefundInfo.resx">
+      <DependentUpon>TD_ComplainRefundInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="淘大型分公司\TD_TK_LessonAdd.resx">
+      <DependentUpon>TD_TK_LessonAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="淘大型分公司\TD_TK_LessonDateManager.resx">
+      <DependentUpon>TD_TK_LessonDateManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="淘大型分公司\TD_TK_StudentMessageShow.resx">
+      <DependentUpon>TD_TK_StudentMessageShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="淘大型分公司\TD_YD_VIPMessageTable.resx">
+      <DependentUpon>TD_YD_VIPMessageTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_研发部\UT_YF_TwoVisit.resx">
+      <DependentUpon>UT_YF_TwoVisit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_研发部\UT_YF_OneVisit.resx">
+      <DependentUpon>UT_YF_OneVisit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_行政部\UT_AdminPart.resx">
+      <DependentUpon>UT_AdminPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_客服部\UT_KF_ClassSituation.resx">
+      <DependentUpon>UT_KF_ClassSituation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_客服部\UT_KF_ComplainRefundInfo.resx">
+      <DependentUpon>UT_KF_ComplainRefundInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_客服部\UT_KF_FYFTable.resx">
+      <DependentUpon>UT_KF_FYFTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_客服部\UT_KF_YDBMJXManager.resx">
+      <DependentUpon>UT_KF_YDBMJXManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_客服部\UT_KF_VIPMessage.resx">
+      <DependentUpon>UT_KF_VIPMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_推广部\CRMStudyAllShow.resx">
+      <DependentUpon>CRMStudyAllShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="福利市场\FLSCDataManager.resx">
+      <DependentUpon>FLSCDataManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="福利市场\FLSCSoftManager.resx">
+      <DependentUpon>FLSCSoftManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="福利市场\FuLiShiChang.resx">
+      <DependentUpon>FuLiShiChang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="系统管理\frmSystemManage.resx">
+      <DependentUpon>frmSystemManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_推广部\UT_frmExtendPart.resx">
+      <DependentUpon>UT_frmExtendPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="淘大型分公司\TaoDa_frmCompany.resx">
+      <DependentUpon>TaoDa_frmCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResetPassword.resx">
+      <DependentUpon>frmResetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="腾讯型分公司\TX_FlushList.resx">
+      <DependentUpon>TX_FlushList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="腾讯型分公司\TX_BM_VIPMessage.resx">
+      <DependentUpon>TX_BM_VIPMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="腾讯型分公司\TX_SerialDetail.resx">
+      <DependentUpon>TX_SerialDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="腾讯型分公司\TX_InsideSerial.resx">
+      <DependentUpon>TX_InsideSerial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="腾讯型分公司\TenXun_frmCompany.resx">
+      <DependentUpon>TenXun_frmCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUTSOFTMAIN.resx">
+      <DependentUpon>frmUTSOFTMAIN.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_推广部\CRMStudyDetailShow.resx">
+      <DependentUpon>CRMStudyDetailShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RowMergeView.resx">
+      <DependentUpon>RowMergeView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="总内部界面\frmInWard1.resx">
+      <DependentUpon>frmInWard1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_客服部\UT_frmCostomPart.resx">
+      <DependentUpon>UT_frmCostomPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_研发部\UT_frmDevloPart.resx">
+      <DependentUpon>UT_frmDevloPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_总经理\UT_frmGeneralManager.resx">
+      <DependentUpon>UT_frmGeneralManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_个人情况\UT_frmPersonSituation.resx">
+      <DependentUpon>UT_frmPersonSituation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UT_VIPMessageShow.resx">
+      <DependentUpon>UT_VIPMessageShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_推广部\YX_PromoteAllShow.resx">
+      <DependentUpon>YX_PromoteAllShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_推广部\YX_EverydayEvaluateShow.resx">
+      <DependentUpon>YX_EverydayEvaluateShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_推广部\YX_EveryDaySummaryShow.resx">
+      <DependentUpon>YX_EveryDaySummaryShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_推广部\YX_JXManager.resx">
+      <DependentUpon>YX_JXManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_推广部\YX_QQZone.resx">
+      <DependentUpon>YX_QQZone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_推广部\YX_ResourceAddShow.resx">
+      <DependentUpon>YX_ResourceAddShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_推广部\YX_ResourceDevelopShow.resx">
+      <DependentUpon>YX_ResourceDevelopShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_推广部\YX_ResourceGroup.resx">
+      <DependentUpon>YX_ResourceGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="优梯_推广部\YX_TableCollectShow.resx">
+      <DependentUpon>YX_TableCollectShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="腾讯型分公司\TX_TSTK_Message.resx">
+      <DependentUpon>TX_TSTK_Message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="腾讯型分公司\TX_YD_VIPMessage.resx">
+      <DependentUpon>TX_YD_VIPMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="腾讯型分公司\TX_ZY_EveryDaySummary.resx">
+      <DependentUpon>TX_ZY_EveryDaySummary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="腾讯型分公司\TX_ZY_Message.resx">
+      <DependentUpon>TX_ZY_Message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="腾讯型分公司\TX_ZYTable_ResourceAddShow.resx">
+      <DependentUpon>TX_ZYTable_ResourceAddShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="腾讯型分公司\TX_ZYTable_ResourceDevelopShow.resx">
+      <DependentUpon>TX_ZYTable_ResourceDevelopShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="腾讯型分公司\TX_ZYTable_EveryDaySummaryShow.resx">
+      <DependentUpon>TX_ZYTable_EveryDaySummaryShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="UTSOFTMAIN_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+    <None Include="Resources\上下连背景.jpg" />
+    <None Include="Resources\无缝背景.jpg" />
+    <None Include="Resources\文字背景.png" />
+    <None Include="Resources\myfp.png" />
+    <None Include="Resources\上面版块.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MODEL\MODEL.csproj">
+      <Project>{6BD3A290-C691-45CC-A661-D411E14EED7C}</Project>
+      <Name>MODEL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

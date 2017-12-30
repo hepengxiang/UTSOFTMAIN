@@ -1,0 +1,808 @@
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmAuthorize.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmCompanyBalance.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmFreeSoftManage.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmHumanResourse.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmManagerEmail.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmNotice.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmNotice1.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmPromote.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmPublicLessonInfo.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmResetPassword.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmShowLessonByType.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmShowLessonTable.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmStudyPlan.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSuggestReward.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSystemManage.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmTeacherInfo.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmTeacherWork.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTDailyManage.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTIndoorManage.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSOFTMAIN.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSoftManage.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmVIPCenter.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmVIPServer.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.login.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.PictureForm.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Properties.Resources.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.exe
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe.config
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.pdb
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\bin\Release\DevComponents.DotNetBar2.dll
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.dll
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.pdb
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.pdb
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.LoginWeb.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe.config
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.exe
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.pdb
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.pdb
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.dll
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.pdb
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmAuthorize.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmCompanyBalance.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmFreeSoftManage.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmHumanResourse.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmManagerEmail.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmNotice.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmNotice1.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmPromote.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmPublicLessonInfo.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmResetPassword.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmShowLessonByType.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmShowLessonTable.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmStudyPlan.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSuggestReward.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSystemManage.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmTeacherInfo.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmTeacherWork.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTDailyManage.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTIndoorManage.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSOFTMAIN.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSoftManage.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmVIPCenter.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmVIPServer.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.login.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.LoginWeb.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.PictureForm.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Properties.Resources.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\2017-2-10UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe.config
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.exe
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.pdb
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.pdb
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.dll
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.pdb
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmAuthorize.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmCompanyBalance.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmFreeSoftManage.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmHumanResourse.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmManagerEmail.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmNotice.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmNotice1.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmPromote.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmPublicLessonInfo.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmResetPassword.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmShowLessonByType.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmShowLessonTable.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmStudyPlan.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSuggestReward.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSystemManage.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmTeacherInfo.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmTeacherWork.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTDailyManage.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTIndoorManage.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSOFTMAIN.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSoftManage.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmVIPCenter.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmVIPServer.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.login.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.LoginWeb.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.PictureForm.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Properties.Resources.resources
+C:\Users\Administrator\Desktop\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csproj.GenerateResource.Cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe.config
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.dll
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csprojResolveAssemblyReference.cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmAuthorize.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmCompanyBalance.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmFreeSoftManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmHumanResourse.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmManagerEmail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmNotice.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmNotice1.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmPromote.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmPublicLessonInfo.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmResetPassword.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmShowLessonByType.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmShowLessonTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmStudyPlan.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSuggestReward.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSystemManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmTeacherInfo.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmTeacherWork.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTDailyManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTIndoorManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSOFTMAIN.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSoftManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmVIPCenter.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmVIPServer.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.login.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.LoginWeb.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.PictureForm.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Properties.Resources.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csproj.GenerateResource.Cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyDetailShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyAllShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.VIPMessageShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YXPromoteAllShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe.config
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csprojResolveAssemblyReference.cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyAllShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmAuthorize.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmCompanyBalance.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmFreeSoftManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmHumanResourse.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmManagerEmail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmNotice.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmNotice1.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmPromote.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmPublicLessonInfo.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmResetPassword.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmShowLessonByType.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmShowLessonTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmStudyPlan.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSuggestReward.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSystemManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmTeacherInfo.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmTeacherWork.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTDailyManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTIndoorManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSOFTMAIN.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSoftManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmVIPCenter.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmVIPServer.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.login.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.LoginWeb.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.PictureForm.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Properties.Resources.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyDetailShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.RowMergeView.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.VIPMessageShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YXPromoteAllShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csproj.GenerateResource.Cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.dll
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceAddShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceDevelopShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EverydayEvaluateShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-6-营销表格添加前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EveryDaySummaryShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe.config
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.dll
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csprojResolveAssemblyReference.cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyAllShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmAuthorize.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmCompanyBalance.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmFreeSoftManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmHumanResourse.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmManagerEmail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmNotice.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmNotice1.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmPromote.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmPublicLessonInfo.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmResetPassword.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmShowLessonByType.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmShowLessonTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmStudyPlan.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSuggestReward.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSystemManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmTeacherInfo.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmTeacherWork.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTDailyManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTIndoorManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSOFTMAIN.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSoftManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmVIPCenter.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmVIPServer.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.login.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.LoginWeb.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.PictureForm.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Properties.Resources.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyDetailShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.RowMergeView.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.VIPMessageShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YXPromoteAllShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EverydayEvaluateShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EveryDaySummaryShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceAddShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceDevelopShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csproj.GenerateResource.Cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ManagerQQ.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceGroup.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-7-去商图社前\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_TableCollectShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_VIPMessage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyAllShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSystemManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TaoBao_frmCompany.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmResetPassword.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TenXun_frmCompany.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSOFTMAIN.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.login.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Properties.Resources.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyDetailShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.RowMergeView.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmCostomPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmDevloPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmGeneralManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmPersonSituation.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_VIPMessageShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_PromoteAllShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EverydayEvaluateShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EveryDaySummaryShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_JXManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ManagerQQ.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_QQZone.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceAddShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceDevelopShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceGroup.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_TableCollectShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csproj.GenerateResource.Cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe.config
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.dll
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_ComplainRefundInfo.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_ClassSituation.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_FYFTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmExtendPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csprojResolveAssemblyReference.cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmInWard.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmInWard1.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_AdminPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_TSTKJXManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_YDBMJXManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_YF_TwoVisit.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN确定版\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_YF_OneVisit.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe.config
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.dll
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csprojResolveAssemblyReference.cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_YF_TwoVisit.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_YF_OneVisit.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_TSTKJXManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_AdminPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_ClassSituation.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_ComplainRefundInfo.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_FYFTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_YDBMJXManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_VIPMessage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyAllShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmInWard.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSystemManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmExtendPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TaoBao_frmCompany.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmResetPassword.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TenXun_frmCompany.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSOFTMAIN.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.login.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Properties.Resources.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyDetailShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.RowMergeView.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmInWard1.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmCostomPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmDevloPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmGeneralManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmPersonSituation.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_VIPMessageShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_PromoteAllShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EverydayEvaluateShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EveryDaySummaryShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_JXManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ManagerQQ.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_QQZone.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceAddShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceDevelopShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceGroup.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_TableCollectShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csproj.GenerateResource.Cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_BM_JXManagerTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_YD_VIPMessageTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_BM_VIPMessageTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-4-21下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_ComplainRefundInfo.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe.config
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.dll
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csprojResolveAssemblyReference.cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_ComplainRefundInfo.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_YD_VIPMessageTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_BM_VIPMessageTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_YF_TwoVisit.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_YF_OneVisit.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_TSTKJXManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_AdminPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_ClassSituation.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_ComplainRefundInfo.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_FYFTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_YDBMJXManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_VIPMessage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyAllShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSystemManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmExtendPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmResetPassword.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TenXun_frmCompany.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSOFTMAIN.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.login.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Properties.Resources.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyDetailShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.RowMergeView.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmInWard1.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmCostomPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmDevloPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmGeneralManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmPersonSituation.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_VIPMessageShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_PromoteAllShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EverydayEvaluateShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EveryDaySummaryShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_JXManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ManagerQQ.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_QQZone.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceAddShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceDevelopShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceGroup.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_TableCollectShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csproj.GenerateResource.Cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TaoDa_frmCompany.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_InsideSerial.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_FlushList.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_SerialDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.InWard_AllSalaryTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_KF_PromoteDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Pub_JXSalaryDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Pub_WorkSalaryDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Admin_DataMatch.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_SerialDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_InsideSerial.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_ZY_Message.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_BM_VIPMessage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_TSTK_Message.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_YD_VIPMessage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_行政部.UT_ImprotDate.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Admin_SerialDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_TXZY.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_FlushList.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_行政部.Admin_AcountDetailCount.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.总内部界面.Admin_BatchAdd.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_FlushList.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe.config
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.dll
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csprojResolveAssemblyReference.cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_FlushList.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_TXZY.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_行政部.Admin_AcountDetailCount.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Admin_DataMatch.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Admin_SerialDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_行政部.UT_ImprotDate.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.总内部界面.Admin_BatchAdd.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Pub_JXSalaryDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Pub_WorkSalaryDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.InWard_AllSalaryTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_KF_PromoteDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_TSTKJXManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_BM_VIPMessageTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_InsideSerial.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_FlushList.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_SerialDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_ComplainRefundInfo.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_YD_VIPMessageTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_YF_TwoVisit.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_YF_OneVisit.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_AdminPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_ClassSituation.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_ComplainRefundInfo.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_FYFTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_YDBMJXManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_VIPMessage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyAllShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSystemManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmExtendPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TaoDa_frmCompany.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmResetPassword.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_FlushList.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_BM_VIPMessage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_SerialDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_InsideSerial.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TenXun_frmCompany.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSOFTMAIN.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.login.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Properties.Resources.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyDetailShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.RowMergeView.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmInWard1.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmCostomPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmDevloPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmGeneralManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmPersonSituation.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_VIPMessageShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_PromoteAllShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EverydayEvaluateShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EveryDaySummaryShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_JXManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ManagerQQ.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_QQZone.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceAddShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceDevelopShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceGroup.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_TableCollectShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_TSTK_Message.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_YD_VIPMessage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_ZY_Message.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN2017-5-13下班\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csproj.GenerateResource.Cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe.config
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.dll
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.pdb
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csprojResolveAssemblyReference.cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_FlushList.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_TXZY.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_行政部.Admin_AcountDetailCount.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Admin_DataMatch.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_行政部.UT_ImprotDate.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.总内部界面.Admin_BatchAdd.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Pub_JXSalaryDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Pub_WorkSalaryDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.InWard_AllSalaryTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_KF_PromoteDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_TSTKJXManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_BM_VIPMessageTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_InsideSerial.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_FlushList.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_SerialDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_ComplainRefundInfo.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_YD_VIPMessageTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_YF_TwoVisit.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_YF_OneVisit.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_AdminPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_ClassSituation.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_ComplainRefundInfo.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_FYFTable.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_YDBMJXManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_VIPMessage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyAllShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSystemManage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmExtendPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TaoDa_frmCompany.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmResetPassword.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_FlushList.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_BM_VIPMessage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_SerialDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_InsideSerial.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TenXun_frmCompany.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSOFTMAIN.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.login.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Properties.Resources.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyDetailShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.RowMergeView.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmInWard1.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmCostomPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmDevloPart.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmGeneralManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmPersonSituation.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_VIPMessageShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_PromoteAllShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EverydayEvaluateShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EveryDaySummaryShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_JXManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_QQZone.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceAddShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceDevelopShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceGroup.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_TableCollectShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_TSTK_Message.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_YD_VIPMessage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_ZY_Message.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csproj.GenerateResource.Cache
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_TK_DealWith.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_个人情况.JX_DetailShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.总内部界面.Admin_JXCaculate_BatchAdd.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_VIPMessage.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_SerialDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_行政部.Admin_CardSerialDetail.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.淘大型分公司.TD_TK_LessonAdd.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.淘大型分公司.TD_TK_LessonDateManager.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.淘大型分公司.TD_TK_StudentMessageShow.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_推广部.YX_AllTableDate.resources
+E:\桌面文件----勿删\刘工\鹏翔测试软件\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_ZY_EveryDaySummary.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe.config
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.pdb
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.dll
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.pdb
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csprojResolveAssemblyReference.cache
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_推广部.YX_AllTableDate.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_行政部.Admin_CardSerialDetail.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_SerialDetail.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_VIPMessage.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_个人情况.JX_DetailShow.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_FlushList.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_TXZY.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_TK_DealWith.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_行政部.Admin_AcountDetailCount.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Admin_DataMatch.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_行政部.UT_ImprotDate.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.总内部界面.Admin_BatchAdd.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.总内部界面.Admin_JXCaculate_BatchAdd.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Pub_JXSalaryDetail.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Pub_WorkSalaryDetail.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.InWard_AllSalaryTable.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_KF_PromoteDetail.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_TSTKJXManager.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_BM_VIPMessageTable.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_InsideSerial.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_FlushList.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_SerialDetail.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_ComplainRefundInfo.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.淘大型分公司.TD_TK_LessonAdd.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.淘大型分公司.TD_TK_LessonDateManager.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.淘大型分公司.TD_TK_StudentMessageShow.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_YD_VIPMessageTable.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_YF_TwoVisit.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_YF_OneVisit.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_AdminPart.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_ClassSituation.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_ComplainRefundInfo.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_FYFTable.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_YDBMJXManager.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_VIPMessage.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyAllShow.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSystemManage.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmExtendPart.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TaoDa_frmCompany.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmResetPassword.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_FlushList.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_BM_VIPMessage.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_SerialDetail.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_InsideSerial.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TenXun_frmCompany.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSOFTMAIN.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.login.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Properties.Resources.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyDetailShow.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.RowMergeView.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmInWard1.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmCostomPart.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmDevloPart.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmGeneralManager.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmPersonSituation.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_VIPMessageShow.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_PromoteAllShow.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EverydayEvaluateShow.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EveryDaySummaryShow.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_JXManager.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_QQZone.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceAddShow.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceDevelopShow.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceGroup.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_TableCollectShow.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_TSTK_Message.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_YD_VIPMessage.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_ZY_EveryDaySummary.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_ZY_Message.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csproj.GenerateResource.Cache
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_ZYTable_ResourceAddShow.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_ZYTable_ResourceDevelopShow.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_ZYTable_EveryDaySummaryShow.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.福利市场.FLSCSoftManager.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.福利市场.FuLiShiChang.resources
+E:\桌面文件----勿删\刘工\优梯软件源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.福利市场.FLSCDataManager.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe.config
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.exe
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.pdb
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.pdb
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.dll
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.pdb
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csprojResolveAssemblyReference.cache
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_推广部.YX_AllTableDate.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_行政部.Admin_CardSerialDetail.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_SerialDetail.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_VIPMessage.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_个人情况.JX_DetailShow.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_FlushList.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_TXZY.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_TK_DealWith.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_行政部.Admin_AcountDetailCount.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Admin_DataMatch.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_行政部.UT_ImprotDate.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.总内部界面.Admin_BatchAdd.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.总内部界面.Admin_JXCaculate_BatchAdd.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Pub_JXSalaryDetail.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Pub_WorkSalaryDetail.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.InWard_AllSalaryTable.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_KF_PromoteDetail.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_TSTKJXManager.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_BM_VIPMessageTable.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_InsideSerial.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_FlushList.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_SerialDetail.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_ComplainRefundInfo.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.淘大型分公司.TD_TK_LessonAdd.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.淘大型分公司.TD_TK_LessonDateManager.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.淘大型分公司.TD_TK_StudentMessageShow.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_YD_VIPMessageTable.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_YF_TwoVisit.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_YF_OneVisit.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_AdminPart.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_ClassSituation.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_ComplainRefundInfo.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_FYFTable.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_YDBMJXManager.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_VIPMessage.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyAllShow.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.福利市场.FLSCDataManager.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.福利市场.FLSCSoftManager.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.福利市场.FuLiShiChang.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSystemManage.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmExtendPart.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TaoDa_frmCompany.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmResetPassword.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_FlushList.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_BM_VIPMessage.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_SerialDetail.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_InsideSerial.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TenXun_frmCompany.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSOFTMAIN.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.login.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Properties.Resources.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyDetailShow.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.RowMergeView.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmInWard1.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmCostomPart.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmDevloPart.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmGeneralManager.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmPersonSituation.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_VIPMessageShow.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_PromoteAllShow.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EverydayEvaluateShow.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EveryDaySummaryShow.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_JXManager.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_QQZone.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceAddShow.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceDevelopShow.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceGroup.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_TableCollectShow.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_TSTK_Message.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_YD_VIPMessage.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_ZY_EveryDaySummary.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_ZY_Message.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_ZYTable_ResourceAddShow.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_ZYTable_ResourceDevelopShow.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_ZYTable_EveryDaySummaryShow.resources
+G:\优梯教育软件及源码\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csproj.GenerateResource.Cache
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe.config
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.exe
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.exe
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\bin\Release\UTSOFTMAIN.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.dll
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MODEL.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csprojResolveAssemblyReference.cache
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_推广部.YX_AllTableDate.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_行政部.Admin_CardSerialDetail.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_SerialDetail.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_VIPMessage.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_个人情况.JX_DetailShow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_FlushList.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_TXZY.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_TK_DealWith.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_行政部.Admin_AcountDetailCount.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Admin_DataMatch.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_行政部.UT_ImprotDate.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.总内部界面.Admin_BatchAdd.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.总内部界面.Admin_JXCaculate_BatchAdd.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Pub_JXSalaryDetail.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Pub_WorkSalaryDetail.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.InWard_AllSalaryTable.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_KF_PromoteDetail.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_TSTKJXManager.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_BM_VIPMessageTable.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_InsideSerial.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_FlushList.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_SerialDetail.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_ComplainRefundInfo.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.淘大型分公司.TD_TK_LessonAdd.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.淘大型分公司.TD_TK_LessonDateManager.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.淘大型分公司.TD_TK_StudentMessageShow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TD_YD_VIPMessageTable.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_YF_TwoVisit.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_YF_OneVisit.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_AdminPart.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_ClassSituation.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_ComplainRefundInfo.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_FYFTable.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_YDBMJXManager.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.优梯_客服部.UT_KF_VIPMessage.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyAllShow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.福利市场.FLSCDataManager.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.福利市场.FLSCSoftManager.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.福利市场.FuLiShiChang.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmSystemManage.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmExtendPart.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TaoDa_frmCompany.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmResetPassword.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_FlushList.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_BM_VIPMessage.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_SerialDetail.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_InsideSerial.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TenXun_frmCompany.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmUTSOFTMAIN.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.login.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.Properties.Resources.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.CRMStudyDetailShow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.RowMergeView.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.frmInWard1.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmCostomPart.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmDevloPart.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmGeneralManager.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_frmPersonSituation.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.UT_VIPMessageShow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_PromoteAllShow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EverydayEvaluateShow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_EveryDaySummaryShow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_JXManager.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_QQZone.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceAddShow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceDevelopShow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_ResourceGroup.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.YX_TableCollectShow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_TSTK_Message.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_YD_VIPMessage.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_ZY_EveryDaySummary.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.腾讯型分公司.TX_ZY_Message.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_ZYTable_ResourceAddShow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_ZYTable_ResourceDevelopShow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.TX_ZYTable_EveryDaySummaryShow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\obj\x86\Release\UTSOFTMAIN.csproj.GenerateResource.Cache
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\bin\Release\DevComponents.DotNetBar2.dll
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\UTSOFTMAIN\bin\Release\MySql.Data.dll

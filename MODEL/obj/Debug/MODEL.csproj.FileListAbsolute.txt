@@ -1,0 +1,5 @@
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\MODEL\bin\Debug\MODEL.dll
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\MODEL\bin\Debug\MODEL.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\MODEL\obj\Debug\MODEL.dll
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\MODEL\obj\Debug\MODEL.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\内部软件源码及资料\UTSOFTMAIN\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
